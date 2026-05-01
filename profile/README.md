@@ -13,15 +13,6 @@ It prioritizes:
 
 ---
 
-## Ecosystem
-
-* **`glenc`** — compiler
-* **`halo`** — build system
-* **`gest`** — REST API layer
-* **`gltk4`** — GTK4 bindings *(in progress)*
-
----
-
 ## Example
 
 ```glen
